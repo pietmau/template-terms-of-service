@@ -21,22 +21,42 @@ If you continue to use the Service after the revised Terms go into effect, then 
 We do not collect any uses information about users of the Service.
 
 ## Use of the Service
-Once the user opens the application for the first time, the application will require to designate a receiver of his payments/donations, the amount of each single payment, the total maximum number of payments he is willing to make, the maximum overall total amount he is willing to pay.
+
+### Payments PreApproval
+
+Once the user opens the application for the first time, the application will require: 
+- to designate a receiver of his payments/donations, 
+- the amount of each single payment, 
+- the total maximum number of payments he is willing to make, 
+- the maximum overall total amount he is willing to pay.
 The application will use this information to get the PreApproval from PayPal: the user will be redirected, from within the mobile application, to PayPal to approve the PreApproval.
+
+### Payments execution
 
 After PreApproval is obtained the mobile application will work in the following way.
 
 It will be an Alarm Clock.
 When the Alarm goes off, and the user wants to oversleep, he will have to press the SNOOZE button so that the Alarm will wait a some time and go off again after a few minutes.
-When the user presses the SNOOZE button, the application will send a payment: to the receiver of payments/donations he inputed during the PreApproval, for an amount as set in the PreApproval, for a total maximum number of payments as set in te the PreApproval, for a maximum overall payment as set in the PreApproval. 
+When the user presses the SNOOZE button, the application will send a payment: 
+- the receiver of payments/donations he inputed during the PreApproval, 
+- or an amount as set in the PreApproval, 
+- or a total maximum number of payments as set in te the PreApproval, 
+- or a maximum overall payment as set in the PreApproval. 
 
-The receiver of the payment will be elected by the user at the beginning of the process (at the PreApproval phase), the money will not be sent to the Service, but to anybody the user might want to: friends, relatives, charityies, othr institutions.
+The receiver of the payment will be elected by the user at the beginning of the process (during the PreApproval), the money will not be sent to the Service, but to anybody the user might want to: friends, relatives, charityies, othr institutions.
 
-So the overall purpose of the application is to give a small "penalty" for the user, and at the same time support somebody or an institution as chosen by the user.
+There will be only one single receiver of the payments, as set by the user in the PreApproval.
+
+The Service is free, we will not receive any kind of payment from the application.
+
+The Service will not charge any fee for the execution of the payments, only PayPal fees will apply and will be charged by PayPal (please refer to PayPal to obtain further information about payment fees applied by Paypal).
+
+The overall purpose of the application is to give a small "penalty" for the user, and support somebody or an institution as chosen by the user.
 
 After the PreApproval the application will process the payments autimatically (within the limitations set by the user in the PreApproval) every time the user presses the SNOOZE button.
 
-We waive all responsibilities on the correct processing of the payments, it is the user's responsibility to retrieve the correct inoformation of the receiver of the payments (the PayPal account of the receiver). We waive all responsibility about the use of usage of the funds by the receiver.
+We waive all responsibilities on the correct processing of the payments, it is the user's responsibility to retrieve the correct inoformation of the receiver of the payments (the PayPal account of the receiver). 
+We waive all responsibility about the usage of the funds made by the receiver.
 
 ## Refunds 
 
