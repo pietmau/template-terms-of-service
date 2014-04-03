@@ -18,7 +18,7 @@ If you continue to use the Service after the revised Terms go into effect, then 
 
 ## Privacy Policy
 
-We do not collect any use information about users of the Service.
+We do not collect any uses information about users of the Service.
 
 ## Use of the Service
 Once the user opens the application for the first time, the application will require to designate a receiver of his payments/donations, the amount of each single payment, the total maximum number of payments he is willing to make, the maximum overall total amount he is willing to pay.
