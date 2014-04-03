@@ -20,6 +20,20 @@ If you continue to use the Service after the revised Terms go into effect, then 
 
 We do not collect any use information about users of the Service.
 
+## Use of the Service
+Once the user opens the application for the first time, the application will require to designate a receiver of his payments/donations, the amount of each single payment, the total maximum number of payments he is willing to make, the maximum overall total amount he is willing to pay.
+The application will use this information to get the PreApproval from PayPal: the user will be redirected, from within the mobile application, to PayPal to approve the PreApproval.
+
+After PreApproval is obtained the mobile application will work in the following way.
+
+It will be an Alarm Clock.
+When the Alarm goes off, and the user wants to oversleep, he will have to press the SNOOZE button so that the Alarm will wait a some time and go off again after a few minutes.
+When the user presses the SNOOZE button, the application will send a payment: to the receiver of payments/donations he inputed during the PreApproval, for an amount as set in the PreApproval, for a total maximum number of payments as set in te the PreApproval, for a maximum overall payment as set in the PreApproval. 
+
+The receiver of the payment will be elected by the user at the beginning of the process (at the PreApproval phase), the money will not be sent to the Service, but to anybody the user might want to: friends, relatives, charityies, othr institutions.
+
+So the overall purpose of the application is to give a small "penalty" for the user, and at the same time support somebody or an institution as chosen by the user.
+
 ## Materials
 
 We put a lot of effort into creating the Service including, the logo and all designs, text, graphics, pictures, information and other content (excluding your content). This property is owned by us or our licensors and it is protected by U.S. and international copyright laws. We grant you the right to use it.
