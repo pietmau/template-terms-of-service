@@ -34,9 +34,20 @@ The receiver of the payment will be elected by the user at the beginning of the 
 
 So the overall purpose of the application is to give a small "penalty" for the user, and at the same time support somebody or an institution as chosen by the user.
 
+After the PreApproval the application will process the payments autimatically (within the limitations set by the user in the PreApproval) every time the user presses the SNOOZE button.
+
+We waive all responsibilities on the correct processing of the payments, it is the user's responsibility to retrieve the correct inoformation of the receiver of the payments (the PayPal account of the receiver). We waive all responsibility about the use of usage of the funds by the receiver.
+
+## Refunds 
+
+Payments made by the Service when the user presses the SNOOZE button will be procesed automatically (within the limitations set by the user in the PreApproval).
+The Service will not allow any refound and we waive wll responsibilty about incorrect payments.
+If the user, for wahtever reason, will want to requewst a refund it will not be done by the service under any circumstance; the user himself athnomously will have to contact the reciever and agree on a possible refund. 
+The Service doees not provide any kind of support for refunds for wahtever reason. 
+
 ## Materials
 
-We put a lot of effort into creating the Service including, the logo and all designs, text, graphics, pictures, information and other content (excluding your content). This property is owned by us or our licensors and it is protected by U.S. and international copyright laws. We grant you the right to use it.
+We put a lot of effort into creating the Service including, the logo and all designs, text, graphics, pictures, information and other content (excluding your content). This property is owned by us or our licensors and it is protected by U.S.A. and international copyright laws. We grant you the right to use it.
 
 However, unless we expressly state otherwise, your rights do not include: (i) publicly performing or publicly displaying the Service; (ii) modifying or otherwise making any derivative uses of the Service or any portion thereof; (iii) using any data mining, robots or similar data gathering or extraction methods; (iv) downloading (other than page caching) of any portion of the Service or any information contained therein; (v) reverse engineering or accessing the Service in order to build a competitive product or service; or (vi) using the Service other than for its intended purposes. If you do any of this stuff, we may terminate your use of the Service.
 
